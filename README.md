@@ -16,3 +16,7 @@ This project demonstrates time-series analysis and data visualization skills usi
 ### Merton-KMV Credit Risk Model
 This is a C++ implementation of the Merton-KMV credit risk model. The code uses the Newton-Raphson algorithm to iteratively calculate a firm's distance to default (DTD) and asset volatility, demonstrating a strong understanding of quantitative finance, numerical methods, and risk assessment.
 [View Project](merton-kmv-model)
+
+### Financial Risk Analysis with Value at Risk (VaR)
+This project demonstrates a practical application of financial risk analysis using Python. It calculates the **Value at Risk (VaR)** for a single stock using two widely accepted methodologies: the **Historical Method** and the **Parametric Method**.
+[View Project](VaR-Example)
