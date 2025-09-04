@@ -1,2 +1,11 @@
 # Financial Risk & Quantitative Analysis Portfolio
 This repository showcases a selection of projects from my Master's in Financial Risk Management and personal development, demonstrating my proficiency in quantitative analysis and programming. The models and analyses are written in Python, R, and C++.
+## Projects
+### Medical Data Analysis 
+This project uses Python to perform data cleaning and exploratory data analysis on a medical dataset. It showcases skills in data manipulation with Pandas and visualization with Seaborn and Matplotlib.
+[View Project](medical-data-analysis)
+
+### Sea-Level Analysis
+This project uses Python to analyze historical sea level data. It performs linear regression to find a line of best fit and forecasts future sea levels, demonstrating skills in statistical analysis and data visualization.
+[View Project](sea-level-analysis)
+
