@@ -9,3 +9,6 @@ This project uses Python to perform data cleaning and exploratory data analysis 
 This project uses Python to analyze historical sea level data. It performs linear regression to find a line of best fit and forecasts future sea levels, demonstrating skills in statistical analysis and data visualization.
 [View Project](sea-level-analysis)
 
+### Forum Page Views Analysis
+This project demonstrates time-series analysis and data visualization skills using Python. It cleans a dataset, and generates a line plot for trend analysis, a bar plot for year-over-year averages, and box plots to visualize seasonal trends.
+[View Project](pageviews-analysis)
