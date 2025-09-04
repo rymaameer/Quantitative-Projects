@@ -12,3 +12,7 @@ This project uses Python to analyze historical sea level data. It performs linea
 ### Forum Page Views Analysis
 This project demonstrates time-series analysis and data visualization skills using Python. It cleans a dataset, and generates a line plot for trend analysis, a bar plot for year-over-year averages, and box plots to visualize seasonal trends.
 [View Project](pageviews-analysis)
+
+### Forum Page Views Analysis
+This project demonstrates time-series analysis and data visualization skills using Python. It cleans a dataset, and generates a line plot for trend analysis, a bar plot for year-over-year averages, and box plots to visualize seasonal trends.
+[View Project](pageviews-analysis)
