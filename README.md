@@ -13,10 +13,6 @@ This project uses Python to analyze historical sea level data. It performs linea
 This project demonstrates time-series analysis and data visualization skills using Python. It cleans a dataset, and generates a line plot for trend analysis, a bar plot for year-over-year averages, and box plots to visualize seasonal trends.
 [View Project](pageviews-analysis)
 
-### Forum Page Views Analysis
-This project demonstrates time-series analysis and data visualization skills using Python. It cleans a dataset, and generates a line plot for trend analysis, a bar plot for year-over-year averages, and box plots to visualize seasonal trends.
-[View Project](pageviews-analysis)
-
 ### Merton-KMV Credit Risk Model
 This is a C++ implementation of the Merton-KMV credit risk model. The code uses the Newton-Raphson algorithm to iteratively calculate a firm's distance to default (DTD) and asset volatility, demonstrating a strong understanding of quantitative finance, numerical methods, and risk assessment.
 [View Project](merton-kmv-model)
